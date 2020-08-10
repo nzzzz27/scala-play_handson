@@ -1,4 +1,4 @@
-# Play framework for Scala Handson
+# Play framework Handson for Scala 
 
 ## ハンズオン資料
 - [lesson1](https://christina-inching-triceps.github.io/codelabs/play-handson-lesson1/index.html#9)
